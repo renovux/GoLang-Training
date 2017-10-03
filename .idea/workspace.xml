@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3420b26-9bcc-4e08-9984-d5ca22ee2880" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_HelloWorld/Heaven.txt" afterPath="$PROJECT_DIR$/01_HelloWorld/Heaven.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -154,7 +153,7 @@
       <workItem from="1506773877343" duration="547000" />
       <workItem from="1506774438909" duration="840000" />
       <workItem from="1507032685651" duration="1714000" />
-      <workItem from="1507034418233" duration="935000" />
+      <workItem from="1507034418233" duration="1064000" />
     </task>
     <task id="LOCAL-00001" summary="Adds Heaven">
       <created>1507034607192</created>
@@ -167,7 +166,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10851000" />
+    <option name="totallyTimeSpent" value="10980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="532" extended-state="0" />
