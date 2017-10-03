@@ -49,4 +49,3 @@ builds/**/images/*
 # security / ssl
 *.pem
 *.xxjson
-.gitignore
