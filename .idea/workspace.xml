@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3420b26-9bcc-4e08-9984-d5ca22ee2880" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -153,7 +153,7 @@
       <workItem from="1506773877343" duration="547000" />
       <workItem from="1506774438909" duration="840000" />
       <workItem from="1507032685651" duration="1714000" />
-      <workItem from="1507034418233" duration="1064000" />
+      <workItem from="1507034418233" duration="1219000" />
     </task>
     <task id="LOCAL-00001" summary="Adds Heaven">
       <created>1507034607192</created>
@@ -162,11 +162,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507034607192</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second Commit">
+      <created>1507035512167</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1507035512167</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10980000" />
+    <option name="totallyTimeSpent" value="11135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="532" extended-state="0" />
@@ -199,7 +206,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Adds Heaven" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds Heaven" />
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -303,7 +311,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-326">
+        <state relative-caret-position="17">
           <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
