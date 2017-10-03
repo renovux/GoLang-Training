@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3420b26-9bcc-4e08-9984-d5ca22ee2880" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Heaven.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Hello.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d3420b26-9bcc-4e08-9984-d5ca22ee2880" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -108,6 +104,7 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="ToolWindowTerminal.ShowToolbar" value="false" />
     <property name="add_unversioned_files" value="true" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -162,12 +159,20 @@
       <workItem from="1506773877343" duration="547000" />
       <workItem from="1506774438909" duration="840000" />
       <workItem from="1507032685651" duration="1714000" />
-      <workItem from="1507034418233" duration="115000" />
+      <workItem from="1507034418233" duration="192000" />
     </task>
+    <task id="LOCAL-00001" summary="Adds Heaven">
+      <created>1507034607192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507034607192</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10031000" />
+    <option name="totallyTimeSpent" value="10108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="532" extended-state="0" />
@@ -196,6 +201,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Adds Heaven" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds Heaven" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -277,6 +288,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
