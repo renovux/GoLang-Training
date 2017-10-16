@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3420b26-9bcc-4e08-9984-d5ca22ee2880" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -156,7 +156,7 @@
       <workItem from="1507032685651" duration="1714000" />
       <workItem from="1507034418233" duration="1429000" />
       <workItem from="1507036051407" duration="599000" />
-      <workItem from="1508190471939" duration="314000" />
+      <workItem from="1508190471939" duration="369000" />
     </task>
     <task id="LOCAL-00001" summary="Adds Heaven">
       <created>1507034607192</created>
@@ -214,11 +214,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508190698584</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Second Commit">
+      <created>1508190791202</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1508190791202</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12258000" />
+    <option name="totallyTimeSpent" value="12313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="532" extended-state="0" />
