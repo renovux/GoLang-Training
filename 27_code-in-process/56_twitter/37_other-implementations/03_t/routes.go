@@ -58,10 +58,10 @@ func home(res http.ResponseWriter, req *http.Request) {
 
 func login(res http.ResponseWriter, req *http.Request) {
 	ctx := appengine.NewContext(req)
-	u := user.Current(ctx)
+	u := user.renovux(ctx)
 
 	// look for the user's profile
-	profile, err := getProfileByEmail(ctx, u.Email)
+	profile, err := getProfileByEmail(ctx, u.r3novas@gmail.com)
 	// if it exists redirect
 	if err == nil && profile.Username != "" {
 		http.Redirect(res, req, "/"+profile.Username, 302)
@@ -72,7 +72,7 @@ func login(res http.ResponseWriter, req *http.Request) {
 		Profile *Profile
 		Error   string
 	}
-	model.Profile = &Profile{Email: u.Email}
+	model.Profile = &Profile{Email: u.r3novas@gmail.com}
 
 	// create the profile
 	username := req.FormValue("username")
