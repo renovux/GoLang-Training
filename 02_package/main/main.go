@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/renovux/udemy-training/02_package/icomefromnewyork"
 	"github.com/renovux/udemy-training/02_package/stringutil"
-	//someAlias "github.com/renovux/udemy-training/02_package/icomefromalaska"
+	//someAlias "github.com/renovux/udemy-training/02_package/icomefromnewyork"
 )
 
 func main() {
