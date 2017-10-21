@@ -2,10 +2,298 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19c7686c-f605-48d3-9600-4a9fbaa211ed" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02_package/icomefromalaska/name2.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04_scope/01_package-scope/01/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/main/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/vis/name.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/vis/printer.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04_scope/02_block-scope/01_this-does-not-compile/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04_scope/02_block-scope/02_closure/01/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04_scope/02_block-scope/02_closure/02/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04_scope/02_block-scope/02_closure/03/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04_scope/02_block-scope/02_closure/04/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04_scope/03_order-matters/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04_scope/04_variable-shadowing/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04_scope/05_same-package/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04_scope/05_same-package/same.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/05_blank-identifier/01_invalid-code/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/05_blank-identifier/02_http-get_example/01_with-error-checking/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/05_blank-identifier/02_http-get_example/02_no-error-checking/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06_constants/01_constant/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06_constants/02_multiple-initialization/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06_constants/03_iota/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06_constants/04_iota/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06_constants/05_iota/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06_constants/06_iota/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/06_constants/07_iota/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/07_memory-address/01_showing-address/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/07_memory-address/02_using-address/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/08_pointers/01_referencing/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/08_pointers/02_dereferencing/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/08_pointers/03_using-pointers/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/08_pointers/04_using-pointers/01_no-pointer/01/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/08_pointers/04_using-pointers/01_no-pointer/02_see-the-addresses/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/08_pointers/04_using-pointers/02_pointer/01/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/08_pointers/04_using-pointers/02_pointer/02_see-the-addresses/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/09_remainder/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10_for-loop/01_init-condition-post/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10_for-loop/02_nested/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10_for-loop/03_for-condition-while-ish/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10_for-loop/04_for_no-condition/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10_for-loop/05_for_break/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10_for-loop/06_for_continue/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10_for-loop/07_rune-loop_UTF8/01/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/10_for-loop/07_rune-loop_UTF8/02/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11_switch-statements/01_switch/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11_switch-statements/02_fallthrough/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11_switch-statements/03_multiple-evals/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11_switch-statements/04_no-expression/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/11_switch-statements/05_on-type/type.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12_if_else-if_else/01_eval-true/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12_if_else-if_else/02_not-exclamation/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12_if_else-if_else/03_init-statement/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12_if_else-if_else/04_init-statement_error_invalid-code/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12_if_else-if_else/05_if-else/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12_if_else-if_else/06_if-elseif-else/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12_if_else-if_else/07_if-elseif-elseif-else/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/12_if_else-if_else/08_divisibleByThree/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13_exercise-solutions/01_hello-world/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13_exercise-solutions/02_hello-NAME/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13_exercise-solutions/03_hello-user-input/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13_exercise-solutions/04_user-enters-numbers/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13_exercise-solutions/05_even-numbers/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13_exercise-solutions/06_fizzBuzz/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13_exercise-solutions/07_threeFive/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13_exercise-solutions/08_just-fyi/01_benchMark/bm_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13_exercise-solutions/08_just-fyi/02_benchMark/bm_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/13_exercise-solutions/08_just-fyi/03_utf/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/01_main/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/02_param-arg/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/03_two-params/01/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/03_two-params/02/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/04_return/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/05_return-naming/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/06_return-multiple/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/07_variadic-params/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/08_variadic-args/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/09_slice-param-arg/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/10_func-expression/01_before-func-expression/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/10_func-expression/02_func-expression/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/10_func-expression/03_func-expression_shows-type/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/10_func-expression/04_another-way_func-expression/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/10_func-expression/05_another-way_func-expression_shows-type/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/11_closure/01/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/11_closure/02/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/11_closure/03/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/11_closure/04/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/11_closure/05/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/12_callbacks/01_print-nums/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/12_callbacks/02_filter-nums/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/13_recursion/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/14_defer/01_no-defer/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/14_defer/02_with-defer/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/01_int/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/02_int-pointer/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/03_string/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/04_string-pointer/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/05_REFERENCE-TYPE/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/06_REFERENCE-TYPE/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/07_struct-pointer/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14_functions/16_anon_self-executing/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15_bool-expressions/01_true-false/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15_bool-expressions/02_not/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15_bool-expressions/03_or/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/15_bool-expressions/04_and/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16_exercise-solutions/01_half/01/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16_exercise-solutions/01_half/02/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16_exercise-solutions/02_func-expression/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16_exercise-solutions/03_variadic-greatest/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16_exercise-solutions/04_bool-expression/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/16_exercise-solutions/05_params-and-args/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17_array/01/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17_array/02/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17_array/03/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17_array/04/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/17_array/05/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/01_int-slice/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/02_int-slice/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/03_int-slice/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/04_string-slice/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/05_slicing-a-slice/01/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/05_slicing-a-slice/02/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/06_make/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/07_append-invalid/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/08_append/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/09_append-beyond-capacity/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/10_append_slice-to-slice/01_slice-of-ints/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/10_append_slice-to-slice/02_slice-of-strings/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/11_delete/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/12_multi-dimensional/01_shorthand-slice/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/12_multi-dimensional/02_var-slice/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/12_multi-dimensional/03_make-slice/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/01_shorthand-slice/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/02_var-slice/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/03_make-slice/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/12_multi-dimensional/05_slice-of-slice-of-string/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/12_multi-dimensional/06_slice-of-slice-of-int/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/18_slice/13_int-slice-plus-plus/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/01_var_nil-map/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/02_var_make/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/03_shorthand_make/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/04_shorthand_composite-literal/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/05_shorthand_composite-literal/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/06_adding-entry/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/07_len/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/08_updating-entry/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/09_deleting-entry/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/10_comma-ok-idiom_val-exists/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/11_deleting-entry_no-error/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/12_comma-ok-idiom_val-not-exists/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/13_loop-range/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/01_letter-buckets/01_runes-are-numbers/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/01_letter-buckets/02_strings-to-rune-conversion/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/01_letter-buckets/03_string-index-access/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/01_letter-buckets/04_remainder-bucket-selection/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/01_letter-buckets/05_hash-function/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/01_letter-buckets/06_get/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/01_letter-buckets/07_scanner/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/01_letter-buckets/08_moby-dicks-words/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/01_letter-buckets/09_int-slice-plus-plus/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/01_letter-buckets/10_hash-letter-buckets/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/01_letter-buckets/11_hash-remainder-buckets/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/02_even-dstribution-hash/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/03_words-in-buckets/01_slice-bucket/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/03_words-in-buckets/02_map-bucket/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/04_english-alphabet/01/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/19_map/14_hash-table/04_english-alphabet/02/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/00_object-oriented/notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/01_user-defined-types/01_alias-type_not-idiomatic/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/01_user-defined-types/02_static-typing/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/01_user-defined-types/notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/02_struct_fields_values_initialization/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/02_struct_fields_values_initialization/notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/03_methods/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/03_methods/notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/04_embedded-types/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/05_promotion/01_overriding-fields/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/05_promotion/02_overriding-methods/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/06_struct-pointer/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/01_exported/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/02_unexported/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/03_tags/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/02_unmarshal/01/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/02_unmarshal/02_tags/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/08_encode_decode/01_encode/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20_struct/08_encode_decode/02_decode/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/00_notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/01_interface/01_no-interface/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/01_interface/02_interface/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/01_interface/03_interface/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/01_interface/04_interface/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/01_interface/05_io-copy/01_no-error-checking/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/01_interface/05_io-copy/02_error-checking/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/02_package-sort/00_notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/02_package-sort/02_sort-names_type-StringSlice/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/02_package-sort/03_sort-Strings/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/02_package-sort/04_sort-names_type-StringSlice_reverse/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/02_package-sort/05_sort-int_type-IntSlice/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/02_package-sort/06_sort-int_type-IntSlice_reverse/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/02_package-sort/07_sort-Ints/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/02_package-sort/08_standard-library-example/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/03_empty-interface/01_no-interface/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/03_empty-interface/02_empty-interface/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/03_empty-interface/03_param-accepts-any-type/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/03_empty-interface/04_slice-of-any-type/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/04_method-sets/01_value-receiver_value-type/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/04_method-sets/02_value-receiver_pointer-type/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/04_method-sets/03_pointer-receiver_pointer-type/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/04_method-sets/04_pointer-receiver_value-type/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/01_int-to-float/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/02_float-to-int/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/03_rune-to-string/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/04_rune-to-slice-of-bytes-to-string/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/05_string-to-slice-of-bytes/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/01_Atoi/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/02_Itoa/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/03_ParseInt/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/01_non-interface-error_invalid-code/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/02_interface-string/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/03_interface-string_not-ok/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/04_interface-int_print-type/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/05_interface-int_mistmatched-types-error/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/06_interface-int-sum/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/07_casting-reminder/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/08_interface-cast-error_need-type-assertion/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/01_no-go/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/02_go_concurrency/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/03_wait-group/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/04_time-sleep/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/05_gomaxprocs_parallelism/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/06_race-condition/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/07_mutex/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/08_atomicity/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/00_unbuffered-channels-block/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/01_range/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/01_race-condition/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/02_wait-group/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/03_semaphore/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/04_semaphore_wrong-way/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/05_n-times_to_1/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/03_1-to-n/01_1_to_2-times/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/03_1-to-n/02_1_to_n-times/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/04_pass-return-channels/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/05_channel-direction/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/06_refactor/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/07_incrementor/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/08_closures/01_no-closure-binding/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/08_closures/02_closure-binding/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/09_channels/08_closures/03_closure-binding/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/01_deadlock-challenge/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/02_deadlock-solution/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/03_deadlock-challenge/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/04_deadlock-challenge/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/05_deadlock-solution/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/11_factorial-challenge/01_challenge-description/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/11_factorial-challenge/02_challenge-solution/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/01_sq-output/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/02_sq-output/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/03_challenge-description/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/04_challenge-solution/01_original-solution/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/04_challenge-solution/02_another-solution/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/04_challenge-solution/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/01_boring/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/02_sq-output/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/03_sq-output_variation/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/04_challenge-description/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/05_challenge-solution/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/06_challenge-description/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/08_challenge-description/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/01_troubleshooting-step/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/02_solution/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/10_van-sickle_fan-out_fan-in/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/01_description/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/02_solution/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/15_for-fun/01/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/15_for-fun/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23_error-handling/01_golint/01_before/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23_error-handling/01_golint/02_after/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/01_fmt-println/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/02_log-println/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/03_log-set-output/log.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/03_log-set-output/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/04_log-fatalln/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/05_panic/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23_error-handling/03_custom-errors/01_errors-new/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23_error-handling/03_custom-errors/02_errors-new_var/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23_error-handling/03_custom-errors/03_fmt-errorf/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23_error-handling/03_custom-errors/04_fmt-errorf_var/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/23_error-handling/03_custom-errors/05_custom-type/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/24_testing/math.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/24_testing/math_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/25_code-walk/main.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/25_code-walk/with-comments/main.go" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02_package/main/main.go" afterPath="$PROJECT_DIR$/02_package/main/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02_package/stringutil/name.go" afterPath="$PROJECT_DIR$/02_package/stringutil/name.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,11 +310,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/01_decimal/main.go">
+      <file leaf-file-name="name2.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_package/icomefromnewyork/name2.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_package/main/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="61" lean-forward="true" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -37,16 +335,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/02_binary/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,56 +355,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/03_hexadecimal/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/04_loop/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_getting-started/03_UTF-8/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="name2.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_package/icomefromnewyork/name2.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_package/main/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="61" lean-forward="true" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -167,7 +405,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,20 +435,11 @@
               <item name="02_package" type="462c0819:PsiDirectoryNode" />
               <item name="stringutil" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="03_variables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="04_scope" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,7 +480,8 @@
       <workItem from="1508198865888" duration="1533000" />
       <workItem from="1508239262302" duration="1849000" />
       <workItem from="1508586142756" duration="3130000" />
-      <workItem from="1508589575646" duration="137000" />
+      <workItem from="1508589575646" duration="313000" />
+      <workItem from="1508589894094" duration="110000" />
     </task>
     <task id="LOCAL-00001" summary="Full Commit">
       <created>1508199372690</created>
@@ -282,11 +511,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508239594972</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Full Commit">
+      <created>1508589731984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1508589731984</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8233000" />
+    <option name="totallyTimeSpent" value="8519000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,7 +536,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="532" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.4849624" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.4849624" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32828283" sideWeight="0.491453" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32828283" sideWeight="0.50427353" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -334,6 +570,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/02_package/icomefromnewyork/name2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -459,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -467,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -475,7 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1600">
           <caret line="95" column="55" lean-forward="false" selection-start-line="95" selection-start-column="55" selection-end-line="95" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -529,8 +770,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02_package/icomefromnewyork/name2.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
