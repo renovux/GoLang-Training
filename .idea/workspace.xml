@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19c7686c-f605-48d3-9600-4a9fbaa211ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -185,7 +184,7 @@
       <workItem from="1508589894094" duration="6882000" />
       <workItem from="1508883815775" duration="12000" />
       <workItem from="1508883875574" duration="1053000" />
-      <workItem from="1508889559681" duration="8000" />
+      <workItem from="1508889559681" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="Full Commit">
       <created>1508199372690</created>
@@ -264,11 +263,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508593548121</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Full Commit">
+      <created>1508889575767</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1508889575767</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16364000" />
+    <option name="totallyTimeSpent" value="16390000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -646,6 +652,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
