@@ -9,6 +9,6 @@ func main() {
 	}
 
 	if false {
-		fmt.Println("This did not run")
+		fmt.Println("This didn't run")
 	}
 }
