@@ -79,54 +79,6 @@
             </path>
             <path>
               <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="02_package" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="02_package" type="462c0819:PsiDirectoryNode" />
-              <item name="icomefromnewyork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="02_package" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="02_package" type="462c0819:PsiDirectoryNode" />
-              <item name="stringutil" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="03_variables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="03_variables" type="462c0819:PsiDirectoryNode" />
-              <item name="01_shorthand" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="03_variables" type="462c0819:PsiDirectoryNode" />
-              <item name="01_shorthand" type="462c0819:PsiDirectoryNode" />
-              <item name="01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="03_variables" type="462c0819:PsiDirectoryNode" />
-              <item name="01_shorthand" type="462c0819:PsiDirectoryNode" />
-              <item name="02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -316,9 +268,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Full Commit" />
-    <MESSAGE value="04-10 Commit" />
     <MESSAGE value="04-07 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="04-07 Commit" />
+    <MESSAGE value="04-10 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="04-10 Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
