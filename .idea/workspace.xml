@@ -127,62 +127,7 @@
             </path>
             <path>
               <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="07_memory-address" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="09_remainder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="10_for-loop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="10_for-loop" type="462c0819:PsiDirectoryNode" />
-              <item name="01_init-condition-post" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="10_for-loop" type="462c0819:PsiDirectoryNode" />
-              <item name="02_nested" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="10_for-loop" type="462c0819:PsiDirectoryNode" />
-              <item name="04_for_no-condition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="10_for-loop" type="462c0819:PsiDirectoryNode" />
-              <item name="06_for_continue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="10_for-loop" type="462c0819:PsiDirectoryNode" />
-              <item name="07_rune-loop_UTF8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="10_for-loop" type="462c0819:PsiDirectoryNode" />
-              <item name="07_rune-loop_UTF8" type="462c0819:PsiDirectoryNode" />
-              <item name="01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="10_for-loop" type="462c0819:PsiDirectoryNode" />
-              <item name="07_rune-loop_UTF8" type="462c0819:PsiDirectoryNode" />
-              <item name="02" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -372,7 +317,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Full Commit" />
     <MESSAGE value="04-10 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="04-10 Commit" />
+    <MESSAGE value="04-07 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="04-07 Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
