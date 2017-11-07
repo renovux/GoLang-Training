@@ -68,8 +68,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,6 +83,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,7 +270,8 @@
     <MESSAGE value="Full Commit" />
     <MESSAGE value="04-07 Commit" />
     <MESSAGE value="04-10 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="04-10 Commit" />
+    <MESSAGE value="11-15 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="11-15 Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
