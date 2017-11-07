@@ -3,6 +3,34 @@
   <component name="ChangeListManager">
     <list default="true" id="19c7686c-f605-48d3-9600-4a9fbaa211ed" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/01_getting-started/01_helloWorld/.idea/01_helloWorld.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/01_getting-started/01_helloWorld/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/01_getting-started/01_helloWorld/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/01_getting-started/01_helloWorld/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/01_getting-started/02_numeral-systems/01_decimal/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/01_getting-started/02_numeral-systems/02_binary/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/01_getting-started/02_numeral-systems/03_hexadecimal/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/01_getting-started/02_numeral-systems/04_loop/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/01_getting-started/03_UTF-8/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/02_package/icomefromnewyork/name2.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/02_package/main/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/02_package/stringutil/name.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/02_package/stringutil/reverse.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/02_package/stringutil/reverseTwo.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/01_shorthand/01/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/01_shorthand/02/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/02_var_zero-value/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/01_declare-variable/var.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/02_declare-many-at-once/var.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/03_init-many-at-once/var.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/04_infer-type/var.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/05_infer-mixed-up-types/var.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/06_init-shorthand/var.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/07_all-together/variables.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/01_oneSolution/myNameVar.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/02_anotherSolution/myNameVar.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/03_anotherSolution/myNameVar.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/04_anotherSolution/myNameVar.go" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -83,8 +111,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,296 +306,50 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/01_decimal/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/02_binary/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/03_hexadecimal/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/04_loop/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/03_UTF-8/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/01_decimal/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/02_binary/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/03_hexadecimal/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/04_loop/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/03_UTF-8/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/main.go" />
     <entry file="file://$PROJECT_DIR$/02_package/icomefromalaska/name2.go" />
-    <entry file="file://$PROJECT_DIR$/02_package/stringutil/reverseTwo.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_package/stringutil/name.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/01_shorthand/01/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/03_hexadecimal/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/04_loop/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/03_UTF-8/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/02_package/stringutil/reverseTwo.go" />
+    <entry file="file://$PROJECT_DIR$/02_package/stringutil/name.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/01_shorthand/01/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/03_hexadecimal/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/04_loop/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/03_UTF-8/main.go" />
     <entry file="file://$PROJECT_DIR$/27_code-in-process/56_twitter/37_other-implementations/03_t/routes.go" />
     <entry file="file://$PROJECT_DIR$/02_package/icomefromalaska/name2.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/.idea/01_helloWorld.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1600">
-          <caret line="95" column="55" lean-forward="false" selection-start-line="95" selection-start-column="55" selection-end-line="95" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/01_decimal/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/02_binary/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/03_hexadecimal/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/04_loop/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/03_UTF-8/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_package/icomefromnewyork/name2.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_package/main/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="78" lean-forward="false" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_package/stringutil/name.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_package/stringutil/reverse.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_package/stringutil/reverseTwo.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/01_shorthand/02/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/01_shorthand/01/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/02_var_zero-value/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/01_declare-variable/var.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/02_declare-many-at-once/var.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/03_init-many-at-once/var.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/04_infer-type/var.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/05_infer-mixed-up-types/var.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/06_init-shorthand/var.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/01_oneSolution/myNameVar.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/02_anotherSolution/myNameVar.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/03_anotherSolution/myNameVar.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/04_anotherSolution/myNameVar.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/.idea/01_helloWorld.iml" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/.idea/modules.xml" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/.idea/workspace.xml" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/01_decimal/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/02_binary/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/03_hexadecimal/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/04_loop/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_getting-started/03_UTF-8/main.go" />
+    <entry file="file://$PROJECT_DIR$/02_package/icomefromnewyork/name2.go" />
+    <entry file="file://$PROJECT_DIR$/02_package/main/main.go" />
+    <entry file="file://$PROJECT_DIR$/02_package/stringutil/name.go" />
+    <entry file="file://$PROJECT_DIR$/02_package/stringutil/reverse.go" />
+    <entry file="file://$PROJECT_DIR$/02_package/stringutil/reverseTwo.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/01_shorthand/02/main.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/01_shorthand/01/main.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/02_var_zero-value/main.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/01_declare-variable/var.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/02_declare-many-at-once/var.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/03_init-many-at-once/var.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/04_infer-type/var.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/05_infer-mixed-up-types/var.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/06_init-shorthand/var.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/01_oneSolution/myNameVar.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/02_anotherSolution/myNameVar.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/03_anotherSolution/myNameVar.go" />
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/04_anotherSolution/myNameVar.go" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -575,13 +357,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/07_all-together/variables.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/07_all-together/variables.go" />
     <entry file="file://$PROJECT_DIR$/10_for-loop/07_rune-loop_UTF8/02/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
