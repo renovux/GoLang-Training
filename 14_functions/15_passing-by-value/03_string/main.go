@@ -4,16 +4,16 @@ import "fmt"
 
 func main() {
 
-	name := "Todd"
-	fmt.Println(name) // Todd
+	name := "Nicholas"
+	fmt.Println(name) // Nicholas
 
 	changeMe(name)
 
-	fmt.Println(name) // Todd
+	fmt.Println(name) // Nicholas
 }
 
 func changeMe(z string) {
-	fmt.Println(z) // Todd
+	fmt.Println(z) // Nicholas
 	z = "Rocky"
 	fmt.Println(z) // Rocky
 }

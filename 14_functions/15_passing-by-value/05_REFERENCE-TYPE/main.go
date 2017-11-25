@@ -5,11 +5,11 @@ import "fmt"
 func main() {
 	m := make(map[string]int)
 	changeMe(m)
-	fmt.Println(m["Todd"]) // 44
+	fmt.Println(m["Nicholas"]) // 24
 }
 
 func changeMe(z map[string]int) {
-	z["Todd"] = 44
+	z["Nicholas"] = 24
 }
 
 /*

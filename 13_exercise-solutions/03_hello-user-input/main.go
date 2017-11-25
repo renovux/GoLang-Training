@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	var name string
-	fmt.Print("Please enter your name: ")
+	fmt.Print("Nicholas")
 	fmt.Scan(&name)
 	fmt.Println("Hello", name)
 }

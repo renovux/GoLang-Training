@@ -1,8 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19c7686c-f605-48d3-9600-4a9fbaa211ed" name="Default" comment="">
+    <list default="true" id="19c7686c-f605-48d3-9600-4a9fbaa211ed" name="Default" comment="Touch-Up Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/vis/name.go" afterPath="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/vis/name.go" />
+      <change beforePath="$PROJECT_DIR$/13_exercise-solutions/02_hello-NAME/main.go" afterPath="$PROJECT_DIR$/13_exercise-solutions/02_hello-NAME/main.go" />
+      <change beforePath="$PROJECT_DIR$/13_exercise-solutions/03_hello-user-input/main.go" afterPath="$PROJECT_DIR$/13_exercise-solutions/03_hello-user-input/main.go" />
+      <change beforePath="$PROJECT_DIR$/13_exercise-solutions/04_user-enters-numbers/main.go" afterPath="$PROJECT_DIR$/13_exercise-solutions/04_user-enters-numbers/main.go" />
+      <change beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/01_int/main.go" afterPath="$PROJECT_DIR$/14_functions/15_passing-by-value/01_int/main.go" />
+      <change beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/02_int-pointer/main.go" afterPath="$PROJECT_DIR$/14_functions/15_passing-by-value/02_int-pointer/main.go" />
+      <change beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/03_string/main.go" afterPath="$PROJECT_DIR$/14_functions/15_passing-by-value/03_string/main.go" />
+      <change beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/04_string-pointer/main.go" afterPath="$PROJECT_DIR$/14_functions/15_passing-by-value/04_string-pointer/main.go" />
+      <change beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/05_REFERENCE-TYPE/main.go" afterPath="$PROJECT_DIR$/14_functions/15_passing-by-value/05_REFERENCE-TYPE/main.go" />
+      <change beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/06_REFERENCE-TYPE/main.go" afterPath="$PROJECT_DIR$/14_functions/15_passing-by-value/06_REFERENCE-TYPE/main.go" />
+      <change beforePath="$PROJECT_DIR$/14_functions/15_passing-by-value/07_struct-pointer/main.go" afterPath="$PROJECT_DIR$/14_functions/15_passing-by-value/07_struct-pointer/main.go" />
+      <change beforePath="$PROJECT_DIR$/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/01_shorthand-slice/main.go" afterPath="$PROJECT_DIR$/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/01_shorthand-slice/main.go" />
+      <change beforePath="$PROJECT_DIR$/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/02_var-slice/main.go" afterPath="$PROJECT_DIR$/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/02_var-slice/main.go" />
+      <change beforePath="$PROJECT_DIR$/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/03_make-slice/main.go" afterPath="$PROJECT_DIR$/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/03_make-slice/main.go" />
+      <change beforePath="$PROJECT_DIR$/20_struct/01_user-defined-types/01_alias-type_not-idiomatic/main.go" afterPath="$PROJECT_DIR$/20_struct/01_user-defined-types/01_alias-type_not-idiomatic/main.go" />
+      <change beforePath="$PROJECT_DIR$/20_struct/01_user-defined-types/02_static-typing/main.go" afterPath="$PROJECT_DIR$/20_struct/01_user-defined-types/02_static-typing/main.go" />
+      <change beforePath="$PROJECT_DIR$/22_go-routines/15_for-fun/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/23_error-handling/01_golint/01_before/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/23_error-handling/01_golint/02_after/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/01_fmt-println/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/02_log-println/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/03_log-set-output/log.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/03_log-set-output/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/04_log-fatalln/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/05_panic/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/23_error-handling/03_custom-errors/01_errors-new/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/23_error-handling/03_custom-errors/02_errors-new_var/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/23_error-handling/03_custom-errors/03_fmt-errorf/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/23_error-handling/03_custom-errors/04_fmt-errorf_var/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/23_error-handling/03_custom-errors/05_custom-type/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/24_testing/math.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/24_testing/math_test.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/25_code-walk/main.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/25_code-walk/with-comments/main.go" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,7 +52,7 @@
     <favorites_list name="udemy-training" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
@@ -40,6 +74,22 @@
         <option value="$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/04_anotherSolution/myNameVar.go" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/15_bool-expressions/01_true-false/main.go" />
+        <option value="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/vis/name.go" />
+        <option value="$PROJECT_DIR$/13_exercise-solutions/02_hello-NAME/main.go" />
+        <option value="$PROJECT_DIR$/13_exercise-solutions/03_hello-user-input/main.go" />
+        <option value="$PROJECT_DIR$/13_exercise-solutions/04_user-enters-numbers/main.go" />
+        <option value="$PROJECT_DIR$/14_functions/15_passing-by-value/04_string-pointer/main.go" />
+        <option value="$PROJECT_DIR$/14_functions/15_passing-by-value/01_int/main.go" />
+        <option value="$PROJECT_DIR$/14_functions/15_passing-by-value/02_int-pointer/main.go" />
+        <option value="$PROJECT_DIR$/14_functions/15_passing-by-value/03_string/main.go" />
+        <option value="$PROJECT_DIR$/14_functions/15_passing-by-value/05_REFERENCE-TYPE/main.go" />
+        <option value="$PROJECT_DIR$/14_functions/15_passing-by-value/06_REFERENCE-TYPE/main.go" />
+        <option value="$PROJECT_DIR$/14_functions/15_passing-by-value/07_struct-pointer/main.go" />
+        <option value="$PROJECT_DIR$/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/01_shorthand-slice/main.go" />
+        <option value="$PROJECT_DIR$/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/02_var-slice/main.go" />
+        <option value="$PROJECT_DIR$/18_slice/12_multi-dimensional/04_comparing_shorthand_var_make/03_make-slice/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/01_user-defined-types/01_alias-type_not-idiomatic/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/01_user-defined-types/02_static-typing/main.go" />
       </list>
     </option>
   </component>
@@ -49,10 +99,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
-    <option name="height" value="532" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -75,35 +125,6 @@
             <path>
               <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="01_getting-started" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="01_getting-started" type="462c0819:PsiDirectoryNode" />
-              <item name="02_numeral-systems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="01_getting-started" type="462c0819:PsiDirectoryNode" />
-              <item name="02_numeral-systems" type="462c0819:PsiDirectoryNode" />
-              <item name="01_decimal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="15_bool-expressions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy-training" type="462c0819:PsiDirectoryNode" />
-              <item name="15_bool-expressions" type="462c0819:PsiDirectoryNode" />
-              <item name="01_true-false" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy-training" type="b2602c69:ProjectViewProjectNode" />
@@ -268,11 +289,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="532" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947807" sideWeight="0.4849624" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1234375" sideWeight="0.4849624" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32828283" sideWeight="0.491453" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32828283" sideWeight="0.50427353" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32633787" sideWeight="0.50427353" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32828283" sideWeight="0.4957265" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -303,99 +324,16 @@
     <MESSAGE value="11-15 Commit" />
     <MESSAGE value="01-03 Commit" />
     <MESSAGE value="16-20 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="16-20 Commit" />
+    <MESSAGE value="21-25 Commit" />
+    <MESSAGE value="Touch-Up Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Touch-Up Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/01_decimal/main.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/02_binary/main.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/03_hexadecimal/main.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/04_loop/main.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/03_UTF-8/main.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/main.go" />
-    <entry file="file://$PROJECT_DIR$/02_package/icomefromalaska/name2.go" />
-    <entry file="file://$PROJECT_DIR$/02_package/stringutil/reverseTwo.go" />
-    <entry file="file://$PROJECT_DIR$/02_package/stringutil/name.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/01_shorthand/01/main.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/main.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/03_hexadecimal/main.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/04_loop/main.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/03_UTF-8/main.go" />
-    <entry file="file://$PROJECT_DIR$/27_code-in-process/56_twitter/37_other-implementations/03_t/routes.go" />
-    <entry file="file://$PROJECT_DIR$/02_package/icomefromalaska/name2.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/.idea/01_helloWorld.iml" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/.idea/modules.xml" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/.idea/workspace.xml" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/01_helloWorld/main.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/02_binary/main.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/03_hexadecimal/main.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/04_loop/main.go" />
-    <entry file="file://$PROJECT_DIR$/01_getting-started/03_UTF-8/main.go" />
-    <entry file="file://$PROJECT_DIR$/02_package/icomefromnewyork/name2.go" />
-    <entry file="file://$PROJECT_DIR$/02_package/main/main.go" />
-    <entry file="file://$PROJECT_DIR$/02_package/stringutil/name.go" />
-    <entry file="file://$PROJECT_DIR$/02_package/stringutil/reverse.go" />
-    <entry file="file://$PROJECT_DIR$/02_package/stringutil/reverseTwo.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/01_shorthand/02/main.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/01_shorthand/01/main.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/02_var_zero-value/main.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/01_declare-variable/var.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/02_declare-many-at-once/var.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/03_init-many-at-once/var.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/04_infer-type/var.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/05_infer-mixed-up-types/var.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/06_init-shorthand/var.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/01_oneSolution/myNameVar.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/02_anotherSolution/myNameVar.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/03_anotherSolution/myNameVar.go" />
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/04_anotherSolution/myNameVar.go" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/07_all-together/variables.go" />
-    <entry file="file://$PROJECT_DIR$/10_for-loop/07_rune-loop_UTF8/02/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_for-loop/07_rune-loop_UTF8/01/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_for-loop/06_for_continue/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_for-loop/01_init-condition-post/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_for-loop/02_nested/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_getting-started/02_numeral-systems/01_decimal/main.go">
+    <entry file="file://$PROJECT_DIR$/22_go-routines/02_go_concurrency/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -403,10 +341,402 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15_bool-expressions/01_true-false/main.go">
+    <entry file="file://$PROJECT_DIR$/22_go-routines/03_wait-group/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/04_time-sleep/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/05_gomaxprocs_parallelism/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/06_race-condition/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/07_mutex/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/08_atomicity/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/00_unbuffered-channels-block/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/01_range/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/01_race-condition/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/02_wait-group/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/03_semaphore/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/04_semaphore_wrong-way/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/05_n-times_to_1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/03_1-to-n/01_1_to_2-times/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/03_1-to-n/02_1_to_n-times/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/04_pass-return-channels/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/05_channel-direction/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/06_refactor/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/07_incrementor/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/08_closures/01_no-closure-binding/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/08_closures/02_closure-binding/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/08_closures/03_closure-binding/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/01_deadlock-challenge/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/02_deadlock-solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/03_deadlock-challenge/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/04_deadlock-challenge/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/05_deadlock-solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/11_factorial-challenge/01_challenge-description/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/11_factorial-challenge/02_challenge-solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/12_channels_pipeline/01_sq-output/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/12_channels_pipeline/02_sq-output/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/12_channels_pipeline/03_challenge-description/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/12_channels_pipeline/04_challenge-solution/01_original-solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/12_channels_pipeline/04_challenge-solution/02_another-solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/12_channels_pipeline/04_challenge-solution/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/01_boring/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/02_sq-output/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-727">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/03_sq-output_variation/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/04_challenge-description/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/05_challenge-solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/06_challenge-description/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-710">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/08_challenge-description/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-761">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/01_troubleshooting-step/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/02_solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-659">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/10_van-sickle_fan-out_fan-in/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-353">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/01_description/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/02_solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/15_for-fun/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/15_for-fun/01/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
           <folding />
         </state>
       </provider>

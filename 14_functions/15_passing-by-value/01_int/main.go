@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	age := 44
+	age := 24
 	changeMe(age)
-	fmt.Println(age) // 44
+	fmt.Println(age) // 24
 }
 
 func changeMe(z int) {

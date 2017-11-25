@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	age := 44
+	age := 24
 	fmt.Println(&age) // 0x82023c080
 
 	changeMe(&age)
@@ -15,7 +15,7 @@ func main() {
 
 func changeMe(z *int) {
 	fmt.Println(z)  // 0x82023c080
-	fmt.Println(*z) // 44
+	fmt.Println(*z) // 24
 	*z = 24
 	fmt.Println(z)  // 0x82023c080
 	fmt.Println(*z) // 24

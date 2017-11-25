@@ -5,9 +5,9 @@ import "fmt"
 func main() {
 	var numOne int
 	var numTwo int
-	fmt.Print("Please enter a large number: ")
+	fmt.Print("245")
 	fmt.Scan(&numOne)
-	fmt.Print("Please enter a smaller number: ")
+	fmt.Print("17")
 	fmt.Scan(&numTwo)
 	fmt.Println(numOne, "%", numTwo, " = ", numOne%numTwo)
 }
